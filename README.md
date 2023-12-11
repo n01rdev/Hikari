@@ -1,2 +1,2 @@
 # Hikari
-✨ Hikari ✨ - ¡Crea un ambiente acogedor en tu servidor de Discord con saludos y despedidas únicas. Desarrollado por 🚀 Zana 🚀.
+✨ Hikari ✨ - Discord Bot for making your server more unique and comfortable with custom greetings.
